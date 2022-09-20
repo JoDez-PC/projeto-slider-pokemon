@@ -1,4 +1,4 @@
-# Projete de slide do pókemon
+# Projeto de slide do pókemon
 Um projeto de slider com o tema de pókemon 🎈
 
 [<img src="./demostrativo-do-site.gif" alt="Demonstração do funcionamento do slider">](https://jodez-pc.github.io/projeto-slider-pokemon/)
